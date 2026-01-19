@@ -10,13 +10,8 @@ This project implements a complete **Software Defined Radio (SDR) receiver** cap
 
 The pipeline processes a 2.4 MS/s signal containing burst transmissions, performing synchronization, error correction, and symbol decoding to recover ASCII text payloads.
 
-### 🔐 Academic Integrity & Full Implementation
+> ### 🔐 Academic Integrity & Full Implementation
 **Note:** This repository contains the **architectural skeleton** of the project to comply with university academic integrity policies.
-
-**Recruiters & Hiring Managers:**
-To view the full, working source code (including specific DSP algorithms for PLLs, Clock Recovery, and Carrier Sync), please request access or view the private implementation here:
-
-👉 **[INSERT YOUR SECRET GIST LINK HERE]**
 
 ---
 
